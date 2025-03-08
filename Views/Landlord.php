@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -9,18 +10,11 @@
     </style>
 </head>
 <body>
-    <h1>Hi!</h1>
+    <h1><b>___________________Landlord Registration Page___________________</b></h1>
     <table>
-        <tr>
-            <th><img src="https://localhost/HomiFy_/Images/Peacock_Plumage.jpg" alt="Bird1" width="200"></th>
-            <th>bird2</th>
-            <th>Bird3</th>
-        </tr>
-        <tr>
-            <td>Peacock</td>
-            <td>Sparrow</td>
-            <td>Parrot</td>
-        </tr>
+       <tr>
+            <td>5000</td>
+       </tr> 
     </table>
 </body>
 </html>
