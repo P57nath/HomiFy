@@ -1,3 +1,3 @@
 # HomiFy
 
-tbd
+this is the readme file
